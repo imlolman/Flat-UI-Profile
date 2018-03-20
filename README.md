@@ -1,4 +1,4 @@
-# Profile
+# Flat UI Profile
 So, This is a Flat UI Profileas an Sample Android App.
 
 It Looks Similar to this
